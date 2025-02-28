@@ -49,10 +49,8 @@ pip install networkx matplotlib
 2.  **Run the Python script:**
 
     ```bash
-    python your_script_name.py
+    python fsa_visualizer.py
     ```
-
-    * Replace `your_script_name.py` with the actual name of your Python script.
 
 3.  **View the Results:**
     * The script will print whether the test string ("abb" by default) is accepted by the FSA.

@@ -1,4 +1,4 @@
-```markdown
+
 # FSA-Visualizer
 
 FSA-Visualizer is a Python tool designed to define, evaluate, and visualize Finite State Automata (FSA) from JSON configuration files. It leverages the power of NetworkX for graph manipulation and Matplotlib for visual output, providing a clear and intuitive way to understand FSA behavior.

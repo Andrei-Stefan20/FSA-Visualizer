@@ -61,11 +61,6 @@ pip install networkx matplotlib
 ## Example
 
 ```python
-import json
-import networkx as nx
-import matplotlib.pyplot as plt
-
-# ... (code from your script) ...
 
 # Example usage
 filename = "fsa_model.json" # Specify the JSON filename

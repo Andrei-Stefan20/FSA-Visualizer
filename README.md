@@ -78,4 +78,3 @@ if fsa:
 
 Contributions are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
 
-```
